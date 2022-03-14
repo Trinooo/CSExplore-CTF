@@ -1,7 +1,7 @@
 # Capture The Flag (Little Children's Game)
-----------------
+====================
 
-# Description
+## Description
 -------------------
 
 This repo will represent the functionality for a children's level game of Capture The Flag. This 2D game will be
@@ -15,7 +15,7 @@ computer parts and processes, and many more. This game will be tailored to intro
 the new world that they will be facing as well as opening the door to something that brings out creative and innovative
 aspect from the mind
 
-# Program Tech Stack
+## Program Tech Stack
 ---------------------
 
 This programm will be written using Java as Jave contains libraries and other relevant tools that make creating a game application
